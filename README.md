@@ -1,4 +1,5 @@
 ##--RELATIVISTIC CYCLOTRON SIMULATOR--##
+![Cyclotron Simulation Dashboard](simulation_dashboard.png)
 
 Welcome to my project! I build this to model and visualize the complex physics behind the particle acceleration
 in Cyclotron in the presence of the Magnetic Field(B) and the Voltage gap (V_gap). 
